@@ -1,0 +1,2 @@
+echo The School is open! > bash/school
+echo "echo The School is open!"
